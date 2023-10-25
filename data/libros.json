@@ -1,0 +1,362 @@
+[
+  {
+    "id": "1",
+    "title": "El Juego de Ender",
+    "author": "Orson Scott Card",
+    "editorial": "Ediciones B / Zeta",
+    "description": "La Tierra está amenazada por una especie extraterrestre de insectos que pretende destruir la humanidad. Para vencerlos se precisa la intervención de un genio militar, por lo cual se permite el nacimiento de Ender, tercer hijo de una pareja en un mundo que limita a dos el número de descendientes. Ender se entrenará en una estación espacial, superará a sus rivales y se convertirá en la persona capaz de dirigir las flotas terrestres contra los insectos de otros mundos.",
+    "img": "https://m.media-amazon.com/images/I/4112ZnvAI3L.jpg",
+    "rating": 4.5
+  },
+  {
+    "id": "2",
+    "title": "Fuego y Sangre: Juego de Tronos",
+    "author": "George R. R. Martin",
+    "editorial": "Plaza & Janés",
+    "description": "Fuego y Sangre es una novela que se desarrolla en el mundo de Canción de Hielo y Fuego, la aclamada serie de George R. R. Martin. La historia se centra en la dinastía Targaryen, los dragones y los sangrientos conflictos que dieron forma a Poniente.",
+    "img": "https://m.media-amazon.com/images/I/919q7mnKYCL._AC_UF1000,1000_QL80_.jpg",
+    "rating": 4.5
+  },
+  {
+    "id": "3",
+    "title": "I, Robot",
+    "author": "Isaac Asimov",
+    "editorial": "Edhasa",
+    "description": "Los robots de Isaac Asimov son máquinas capaces de llevar a cabo muy diversas tareas, y que a menudo se plantean a sí mismos problemas de 'conducta humana'. Pero estas cuestiones se resuelven en Yo, robot en el ámbito de las tres leyes fundamentales de la robótica, concebidas por Asimov, y que no dejan de proponer extraordinarias paradojas que a veces se explican por errores de funcionamiento y otras por la creciente complejidad de los 'programas'. Las paradojas que se plantean en estos relatos futuristas no son sólo ingeniosos ejercicios intelectuales sino sobre todo una indagación sobre la situación del hombre actual en relación con los avances tecnológicos y con la experiencia del tiempo.",
+    "img": "https://www.tiposinfames.com/media/img/portadas/9788435021340.jpg",
+    "rating": 4.8
+  },
+  {
+    "id": "4",
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "editorial": "Debolsillo",
+    "description": "En el desierto de Arrakis, también conocido como Dune, se encuentra la especia melange, la sustancia más valiosa del universo, capaz de extender la vida y otorgar habilidades sobrehumanas. Paul Atreides, un joven noble, se convierte en el protagonista de una épica lucha por el control de Dune y su especia, desatando conflictos políticos y religiosos en un futuro distante.",
+    "img": "https://m.media-amazon.com/images/I/61hSJClsHAS._AC_UF1000,1000_QL80_.jpg",
+    "rating": 4.7
+  },
+  {
+    "id": "5",
+    "title": "Los juegos del hambre",
+    "author": "Suzanne Collins",
+    "editorial": "RBA Molino",
+    "description": "En un mundo distópico, los 12 distritos de Panem son controlados por la Capitolio. Como castigo por una rebelión pasada, cada año se celebran Los Juegos del Hambre, donde un chico y una chica de cada distrito son elegidos para luchar a muerte en un reality show mortal. Katniss Everdeen se convierte en la heroína que desafía este sistema opresivo.",
+    "img": "https://m.media-amazon.com/images/I/71e4kjCsuAL._AC_UF1000,1000_QL80_.jpg",
+    "rating": 4.4
+  },
+  {
+    "id": "6",
+    "title": "Neuromante",
+    "author": "William Gibson",
+    "editorial": "Minotauro",
+    "description": "Case, un ex-hacker adicto al ciberespacio, es contratado por un misterioso empleador para realizar un último trabajo: hackear la inteligencia artificial más avanzada. Ambientada en un futuro cyberpunk, la novela explora temas de tecnología, inteligencia artificial y la fusión entre humanos y máquinas.",
+    "img": "https://imagessl0.casadellibro.com/a/l/s5/20/9788445076620.webp",
+    "rating": 4.6
+  },
+  {
+    "id": "7",
+    "title": "El fin de la eternidad",
+    "author": "Isaac Asimov",
+    "editorial": "Edhasa",
+    "description": "En una organización llamada la Eternidad, los viajeros del tiempo trabajan para influir en la historia de la humanidad, eliminando desastres y conflictos. Andrew Harlan es un leal eternidad que se enfrenta a dilemas éticos cuando conoce a una mujer del pasado. Esta novela de Asimov explora los misterios y paradojas del viaje en el tiempo.",
+    "img": "https://algareditorial.com/35525-thickbox_default/el-fin-de-la-eternidad.jpg",
+    "rating": 4.3
+  },
+  {
+    "id": "8",
+    "title": "Hyperion",
+    "author": "Dan Simmons",
+    "editorial": "Ediciones B",
+    "description": "En un mundo futurista, siete peregrinos cuentan sus historias mientras viajan a Hyperion, un planeta en el que se desencadenarán eventos que pueden cambiar el curso de la humanidad. Cada relato revela aspectos diferentes de este universo complejo, lleno de tecnología avanzada y seres misteriosos.",
+    "img": "https://m.media-amazon.com/images/I/910TeBgKdNL._AC_UF1000,1000_QL80_.jpg",
+    "rating": 4.5
+  },
+  {
+    "id": "9",
+    "title": "Canción de hielo y fuego: Juego de tronos",
+    "author": "George R. R. Martin",
+    "editorial": "Gigamesh",
+    "description": "La lucha por el Trono de Hierro se intensifica en Westeros. Intrigas, traiciones y guerras se desatan mientras casas nobles y personajes poderosos compiten por el control del reino. La serie que inspiró la exitosa serie de televisión 'Juego de Tronos'.",
+    "img": "https://m.media-amazon.com/images/I/71wcxyxVZHL._AC_UF1000,1000_QL80_.jpg",
+    "rating": 4.1
+  },
+  {
+    "id": "10",
+    "title": "Snow Crash",
+    "author": "Neal Stephenson",
+    "editorial": "Bantam Books",
+    "description": "Hiro Protagonist, un repartidor de pizza y hacker, se encuentra en medio de una conspiración global que involucra un virus de realidad virtual llamado Snow Crash. Esta novela es un viaje frenético a través de un mundo distópico de alta tecnología y culturas en colisión.",
+    "img": "https://m.media-amazon.com/images/I/91NrsGzBjUL._AC_UF1000,1000_QL80_.jpg",
+    "rating": 3.1
+  },
+  {
+    "id": "11",
+    "title": "Un mundo feliz",
+    "author": "Aldous Huxley",
+    "editorial": "Debolsillo",
+    "description": "En una sociedad futurista, la humanidad ha alcanzado la estabilidad a través del control totalitario y la eliminación de las emociones y el sufrimiento. Sin embargo, un hombre llamado John el Salvaje desafía este mundo perfecto. La novela examina las implicaciones de un mundo en el que la felicidad se logra a expensas de la individualidad.",
+    "img": "https://images.cdn1.buscalibre.com/fit-in/360x360/4d/4f/4d4fa8bd3eaf0296c64927555fe9228f.jpg",
+    "rating": 4.3
+  },
+  {
+    "id": "12",
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "editorial": "Debolsillo",
+    "description": "En una sociedad en la que los libros están prohibidos y se queman, Guy Montag es un bombero encargado de destruir libros. Sin embargo, su encuentro con una joven llamada Clarisse lo lleva a cuestionar la realidad y a rebelarse contra el sistema. Esta obra es una crítica a la censura y la pérdida de la individualidad.",
+    "img": "https://images.cdn2.buscalibre.com/fit-in/360x360/9e/39/9e3949c949c4abc1f69e2cce613532b1.jpg",
+    "rating": 4.4
+  },
+  {
+    "id": "13",
+    "title": "La carretera",
+    "author": "Cormac McCarthy",
+    "editorial": "Alfaguara",
+    "description": "En un mundo postapocalíptico y desolado, un padre y su hijo emprenden un viaje desesperado hacia un lugar seguro. Mientras luchan por sobrevivir, enfrentan peligros, escasez de alimentos y la amenaza de otros supervivientes. La novela es un retrato conmovedor de la relación entre padre e hijo en circunstancias extremas.",
+    "img": "https://www.penguinlibros.com/es/2081196-large_default/la-carretera.jpg",
+    "rating": 4.6
+  },
+  {
+    "id": "14",
+    "title": "Mundo Anillo",
+    "author": "Larry Niven",
+    "editorial": "Ediciones B",
+    "description": "En esta novela de ciencia ficción, un equipo de exploradores se embarca en una misión para investigar un mundo anillo gigante llamado Halo. En su viaje, descubren civilizaciones antiguas, razas alienígenas y tecnologías asombrosas. Pero también enfrentan peligros mortales y enigmas intrigantes.",
+    "img": "https://www.novelaencurso.es/wp-content/uploads/2021/09/ma.jpg",
+    "rating": 2.6
+  },
+  {
+    "id": "15",
+    "title": "El corredor del laberinto",
+    "author": "James Dashner",
+    "editorial": "Nocturna Ediciones",
+    "description": "Thomas despierta en un lugar llamado el Área, rodeado de un laberinto aparentemente interminable. Junto con un grupo de jóvenes, intenta descubrir quiénes son y cómo escapar del laberinto antes de que sea demasiado tarde. La trilogía explora misterios, conspiraciones y luchas por la supervivencia.",
+    "img": "https://tienda.nocturnaediciones.com/cdn/shop/products/LM4._El_corredor_del_laberinto-A_cubierta_1200x1200.jpg?v=1579782681",
+    "rating": 3.9
+  },
+  {
+    "id": "16",
+    "title": "Altered Carbon",
+    "author": "Richard K. Morgan",
+    "editorial": "Minotauro",
+    "description": "En un futuro en el que la conciencia puede ser transferida a diferentes cuerpos, Takeshi Kovacs es un exsoldado que se despierta en un nuevo cuerpo y se ve envuelto en una conspiración mortal. La novela combina elementos de ciencia ficción, misterio y acción en un mundo de alta tecnología y corrupción.",
+    "img": "https://m.media-amazon.com/images/I/B13gH8nPGsS._AC_UF1000,1000_QL80_.jpg",
+    "rating": 4.1
+  },
+  {
+    "id": "17",
+    "title": "Mundo sin fin",
+    "author": "Ken Follett",
+    "editorial": "Debolsillo",
+    "description": "Esta secuela de 'Los pilares de la Tierra' se desarrolla en la misma ciudad de Kingsbridge, dos siglos después. La novela sigue las vidas de diversos personajes mientras enfrentan conflictos políticos, religiosos y personales en una época medieval llena de intriga y ambición.",
+    "img": "https://m.media-amazon.com/images/I/51dAQkhDZ8L._AC_UF1000,1000_QL80_.jpg",
+    "rating": 4.4
+  },
+  {
+    "id": "18",
+    "title": "Un cuento de Navidad",
+    "author": "Charles Dickens",
+    "editorial": "Alianza Editorial",
+    "description": "El clásico cuento de Charles Dickens sigue la historia de Ebenezer Scrooge, un avaro y egoísta anciano que recibe la visita de tres fantasmas en Nochebuena. Estos espíritus lo llevan a un viaje a través de su pasado, presente y futuro, enseñándole lecciones de generosidad y redención.",
+    "img": "https://www.astiberri.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcStZIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--00a80560128755a55380594bd6160c51b6c7491d/Cuentodenavidad.jpg",
+    "rating": 4.7
+  },
+  {
+    "id": "19",
+    "title": "Guerra Mundial Z",
+    "author": "Max Brooks",
+    "editorial": "Debolsillo",
+    "description": "Este libro toma la forma de una serie de entrevistas ficticias con sobrevivientes de una guerra mundial contra zombis. Cada relato ofrece una visión única de la epidemia zombi y sus consecuencias en diferentes partes del mundo. La novela es un análisis de la sociedad, la política y la supervivencia en un mundo devastado.",
+    "img": "https://imagessl3.casadellibro.com/a/l/s5/13/9788496968813.webp",
+    "rating": 4.2
+  },
+  {
+    "id": "20",
+    "title": "El Cazador en el Centeno",
+    "author": "J.D. Salinger",
+    "editorial": "Alianza Editorial",
+    "description": "La novela sigue a Holden Caulfield, un joven rebelde que ha sido expulsado de múltiples escuelas. La historia se desarrolla durante unos pocos días en Nueva York mientras Holden reflexiona sobre su vida, la sociedad y su desencanto con el mundo adulto. La obra es un clásico de la literatura moderna.",
+    "img": "https://2.bp.blogspot.com/-65oarlnmffU/Ujiwpp5flFI/AAAAAAAAGns/IkPrKbcA91U/s1600/SALINGER+1961+.jpg",
+    "rating": 4.8
+  },
+  {
+    "id": "21",
+    "title": "El Silmarillion",
+    "author": "J.R.R. Tolkien",
+    "editorial": "Minotauro",
+    "description": "El Silmarillion es una colección de relatos que narran la historia de la creación del mundo, la lucha entre el bien y el mal, y las hazañas de valientes héroes y heroínas en el mundo de la Tierra Media. Es una obra fundamental para los amantes de la fantasía épica.",
+    "img": "https://m.media-amazon.com/images/I/81GbXjUh5PL._AC_UF1000,1000_QL80_.jpg",
+    "rating": 1.7
+  },
+  {
+    "id": "22",
+    "title": "1984",
+    "author": "George Orwell",
+    "editorial": "Debolsillo",
+    "description": "En un mundo totalitario, Winston Smith lucha contra el sistema opresivo del Partido. La novela es una crítica a la vigilancia estatal y la manipulación de la información. Una obra que sigue siendo relevante en la actualidad.",
+    "img": "https://global-uploads.webflow.com/6034d7d1f3e0f52c50b2adee/6254291caac6d1e42e8986df_62023ceb41cd1c2807b2841a_9788418933011.jpeg",
+    "rating": 4.6
+  },
+  {
+    "id": "23",
+    "title": "Crimen y castigo",
+    "author": "Fyodor Dostoevsky",
+    "editorial": "Alianza Editorial",
+    "description": "Raskólnikov, un estudiante atormentado, comete un asesinato y luego se debate entre la culpa y la justificación. La novela explora temas de moralidad, castigo y redención en la Rusia del siglo XIX.",
+    "img": "https://global-uploads.webflow.com/6034d7d1f3e0f52c50b2adee/6254541d8ae4df16d4e69bc8_6034d7d1f3e0f54529b2b1a1_Crimen-y-castigo-fiodor-dostoyevski-editorial-alma.jpeg",
+    "rating": 4.4
+  },
+  {
+    "id": "24",
+    "title": "Matar a un ruiseñor",
+    "author": "Harper Lee",
+    "editorial": "Vintage Español",
+    "description": "La historia se desarrolla en el sur de Estados Unidos durante la Gran Depresión y sigue a la joven Scout Finch y su hermano Jem mientras su padre, el abogado Atticus Finch, defiende a un hombre negro acusado injustamente de violar a una mujer blanca. La novela aborda temas de racismo y justicia.",
+    "img": "https://m.media-amazon.com/images/I/71ScCUdhhQL._AC_UF1000,1000_QL80_.jpg",
+    "rating": 4.8
+  },
+  {
+    "id": "25",
+    "title": "Los hombres me explican cosas",
+    "author": "Rebecca Solnit",
+    "editorial": "Capitán Swing Libros",
+    "description": "Este libro de ensayos feministas aborda cuestiones de género y poder en la sociedad. Rebecca Solnit critica la tendencia de algunos hombres a asumir que pueden explicar cualquier cosa a las mujeres, incluso cuando estas son expertas en el tema. Un análisis perspicaz del sexismo en la cultura.",
+    "img": "https://capitanswing.com/wp-content/uploads/RebeccaSolnit_LosHombresMeExplicanCosas.jpg",
+    "rating": 4.2
+  },
+  {
+    "id": "26",
+    "title": "La Sombra del Viento",
+    "author": "Carlos Ruiz Zafón",
+    "editorial": "Planeta",
+    "description": "El joven Daniel Sempere descubre un libro misterioso en el Cementerio de los Libros Olvidados, lo que lo lleva a una trama de secretos, intrigas y peligros en la Barcelona de posguerra. Una novela que mezcla el misterio, la historia y la pasión por los libros.",
+    "img": "https://m.media-amazon.com/images/I/61zOWUcvMbL._AC_UF1000,1000_QL80_.jpg",
+    "rating": 4.5
+  },
+  {
+    "id": "27",
+    "title": "Cien años de soledad",
+    "author": "Gabriel García Márquez",
+    "editorial": "Vintage Español",
+    "description": "La novela narra la historia de la familia Buendía a lo largo de siete generaciones en el pueblo ficticio de Macondo. Es una obra maestra del realismo mágico que explora temas de amor, soledad y el paso del tiempo.",
+    "img": "https://airenuestro.files.wordpress.com/2017/05/cienac3b1os-portada.jpg",
+    "rating": 4.6
+  },
+  {
+    "id": "28",
+    "title": "El Nombre del Viento",
+    "author": "Patrick Rothfuss",
+    "editorial": "Plaza & Janés",
+    "description": "Kvothe, un músico y mago legendario, narra su propia historia, desde su infancia en una troupe de artistas hasta sus hazañas y desafíos en un mundo de magia y misterio. Una epopeya de fantasía que ha cautivado a los lectores.",
+    "img": "https://m.media-amazon.com/images/I/51cGrEjmBDL.jpg",
+    "rating": 2.7
+  },
+  {
+    "id": "29",
+    "title": "El Alquimista",
+    "author": "Paulo Coelho",
+    "editorial": "HarperOne",
+    "description": "Santiago, un joven pastor, emprende un viaje en busca de un tesoro personal y espiritual. La novela es una historia de autodescubrimiento y destino. Ha inspirado a millones de lectores en todo el mundo.",
+    "img": "https://m.media-amazon.com/images/I/81KYCUSk8KL._AC_UF1000,1000_QL80_.jpg",
+    "rating": 4.3
+  },
+  {
+    "id": "30",
+    "title": "El Código Da Vinci",
+    "author": "Dan Brown",
+    "editorial": "Vintage Español",
+    "description": "El profesor de simbología Robert Langdon se ve involucrado en una búsqueda de un secreto ancestral que podría cambiar la historia de la humanidad. La novela combina misterio, conspiración y simbología en una trama trepidante.",
+    "img": "https://www.planetadelibros.com/usuaris/libros/thumbs/d0a7d172-4365-4625-99a5-4868259c35e5/d_295_510/portada_el-codigo-da-vinci_dan-brown_201706061655.webp",
+    "rating": 4.0
+  },
+  {
+    "id": "31",
+    "title": "Don Quijote de la Mancha",
+    "author": "Miguel de Cervantes",
+    "editorial": "Real Academia Española",
+    "description": "La obra maestra de la literatura española narra las aventuras de Don Quijote, un caballero soñador que se embarca en locas hazañas para luchar contra molinos de viento que cree que son gigantes. Una obra que mezcla la sátira, la comedia y la reflexión sobre la realidad y la imaginación.",
+    "img": "https://www.marcialpons.es/media/img/portadas/2023/4/18/9788408270881jfif",
+    "rating": 4.9
+  },
+  {
+    "id": "32",
+    "title": "Mujer en punto cero",
+    "author": "Nawal El Saadawi",
+    "editorial": "Beacon Press",
+    "description": "Esta novela está basada en la historia real de una prisionera egipcia llamada Firdaus, quien está a punto de enfrentar la pena de muerte. La obra explora la opresión de las mujeres en la sociedad y la lucha por la liberación.",
+    "img": "https://imagessl7.casadellibro.com/a/l/s5/27/9788494645327.webp",
+    "rating": 4.8
+  },
+  {
+    "id": "33",
+    "title": "El Extranjero",
+    "author": "Albert Camus",
+    "editorial": "Vintage Español",
+    "description": "La historia sigue a Meursault, un hombre apático que se encuentra en una serie de eventos que lo llevan a cometer un acto de violencia inexplicable. La novela es una reflexión sobre la absurdidad de la existencia humana.",
+    "img": "https://images.cdn2.buscalibre.com/fit-in/360x360/bf/25/bf2575c6341c42feafcb98dbed10ca37.jpg",
+    "rating": 4.7
+  },
+  {
+    "id": "34",
+    "title": "La Odisea",
+    "author": "Homero",
+    "editorial": "Penguin Clásicos",
+    "description": "La epopeya griega narra el viaje de Ulises de regreso a su hogar en Ítaca después de la Guerra de Troya. En su camino, enfrenta a dioses, monstruos y desafíos épicos. Una obra fundamental de la literatura clásica.",
+    "img": "https://www.penguinlibros.com/es/1513878-large_default/odisea.jpg",
+    "rating": 5
+  },
+  {
+    "id": "35",
+    "title": "En el camino",
+    "author": "Jack Kerouac",
+    "editorial": "Anagrama",
+    "description": "La novela sigue a Sal Paradise y Dean Moriarty en un viaje por carretera a través de Estados Unidos. Es un retrato de la generación beat y una exploración de la búsqueda de la libertad y la experiencia.",
+    "img": "https://m.media-amazon.com/images/I/81Eqn-pXMZL._AC_UF1000,1000_QL80_.jpg",
+    "rating": 4.6
+  },
+  {
+    "id": "36",
+    "title": "Los hermanos Karamazov",
+    "author": "Fyodor Dostoevsky",
+    "editorial": "Debolsillo",
+    "description": "La novela narra la historia de los hermanos Karamazov y su relación con su padre, Fiódor Pávlovich. La obra aborda temas de moralidad, religión y la naturaleza humana. Una de las obras más influyentes de la literatura rusa.",
+    "img": "https://www.albaeditorial.es/wp-content/uploads/2020/10/9788484289210-los-hermanos-karamazov-alba-editorial.jpg",
+    "rating": 4.8
+  },
+  {
+    "id": "37",
+    "title": "La naranja mecánica",
+    "author": "Anthony Burgess",
+    "editorial": "Penguin Random House",
+    "description": "La novela sigue a Alex, un joven delincuente y amante de la música clásica, en un mundo distópico donde se somete a un experimento de modificación de la conducta. La obra plantea cuestiones sobre la libertad y la violencia.",
+    "img": "https://m.media-amazon.com/images/I/71GwREsK2rL._AC_UF1000,1000_QL80_.jpg",
+    "rating": 4.7
+  },
+  {
+    "id": "38",
+    "title": "Matar un ruiseñor",
+    "author": "Harper Lee",
+    "editorial": "Vintage Español",
+    "description": "La historia se desarrolla en el sur de Estados Unidos durante la Gran Depresión y sigue a la joven Scout Finch y su hermano Jem mientras su padre, el abogado Atticus Finch, defiende a un hombre negro acusado injustamente de violar a una mujer blanca. La novela aborda temas de racismo y justicia.",
+    "img": "https://m.media-amazon.com/images/I/71ScCUdhhQL._AC_UF1000,1000_QL80_.jpg",
+    "rating": 4.8
+  },
+  {
+    "id": "39",
+    "title": "Los pilares de la Tierra",
+    "author": "Ken Follett",
+    "editorial": "Vintage Español",
+    "description": "La novela se desarrolla en la Inglaterra del siglo XII y sigue la construcción de una catedral gótica en el ficticio Priorato de Kingsbridge. Es una epopeya histórica llena de intriga, ambición y lucha por el poder.",
+    "img": "https://m.media-amazon.com/images/I/91FU2wSBo5L._AC_UF1000,1000_QL80_.jpg",
+    "rating": 4.6
+  },
+  {
+    "id": "40",
+    "title": "La carretera",
+    "author": "Cormac McCarthy",
+    "editorial": "Alfaguara",
+    "description": "En un mundo postapocalíptico y desolado, un padre y su hijo emprenden un viaje desesperado hacia un lugar seguro. Mientras luchan por sobrevivir, enfrentan peligros, escasez de alimentos y la amenaza de otros supervivientes. La novela es un retrato conmovedor de la relación entre padre e hijo en circunstancias extremas.",
+    "img": "https://www.penguinlibros.com/es/2081196-large_default/la-carretera.jpg",
+    "rating": 4.6
+  }
+]

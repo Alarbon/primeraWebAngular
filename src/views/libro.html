@@ -1,0 +1,16 @@
+<div class="container mx-auto ">
+    <div class="md:flex items-center justify-center">
+        <!-- Imagen grande centrada -->
+        <div class="md:w-1/2 flex items-center justify-center">
+            <img src="{{libros[id].img}}" alt="Libro" class="h-[600px] sm:h-[400px] md:h-[500px] lg:h-[600px] xl:h-[750px] rounded-lg object-cover">
+        </div>
+        <!-- Datos del libro a la derecha -->
+        <div class="md:w-1/2 p-6 m-auto text-center">
+            <h1 class="text-4xl font-semibold text-gray-800 mb-4">{{libros[id].title}}</h1>
+            <p class="text-xl text-gray-700"><span class="font-semibold">Autor:</span> {{libros[id].author}}</p>
+            <p class="text-xl text-gray-700"><span class="font-semibold">Editorial:</span> {{libros[id].editorial}}</p>
+            <p class="text-xl text-gray-700 mt-2"><span class="font-semibold">Descripción:</span> {{libros[id].description}}</p>
+            <p class="text-2xl text-black mt-4"><b>Puntuación: {{generateStarRating(libros[id].rating)}} ({{libros[id].rating}})</b></p>
+        </div>
+    </div>
+</div>
